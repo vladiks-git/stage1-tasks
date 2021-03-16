@@ -166,6 +166,7 @@ body {
 .piano-key.letter::after {
 	display: block;
 }
+
 .piano-key-letter::before {
 	content: attr(data-letter);
 }

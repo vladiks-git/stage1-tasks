@@ -4,6 +4,13 @@
   box-sizing: border-box;
   user-select: none;
 }
+:root{
+  --blur: 0px;
+  --invert: 0px;
+  --sepia: 0px;
+  --saturate: 0px;
+  --hue: 0px;
+}
 a:focus {
   outline: 0;
 }
